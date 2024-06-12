@@ -7,7 +7,7 @@
 
 // export default sequelize;
 
-
+export const AUTH_SECRET="adsasdwqeqzsd2345elsajd132";
 const { Pool } = require('pg');
 
 const pool = new Pool({
